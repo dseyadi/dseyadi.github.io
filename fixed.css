@@ -1,13 +1,16 @@
+
 body{
 	margin:0;
 	padding:0;
 	background-color:#faf0f0;
 }
+
 nav{
 	width:100%;
 	background-color:#faf0f0;
 	overflow:auto;
 }
+
 ul{
 	
 	padding:50;
@@ -33,6 +36,7 @@ nav a{
 	overflow:hidden;
 	position:relative;
 }
+/* for the backgroung-image */
 .img {
 	opacity:0.9;
 	position:absolute;
@@ -49,16 +53,18 @@ nav a{
 	position:relative;
 	color:#f2f2f2;
 }
-
+/* to add a unique box for the footer */
 #siteinfo{
 	background-color:#ca786d;
 	color:#ffffff;
 	margin:0;
 	padding:20px;
 }
+/* to make the email color white */
 .email {
 	color:#ffffff;
 }
+/* to set the logo in the right side of the page */
 #siteinfo img{
 	float:right;
 	

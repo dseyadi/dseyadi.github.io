@@ -31,7 +31,7 @@ nav a{
 	position:relative;
 	
 }
-
+/* for the backgroung-image */
 .img {
 	opacity:0.9;
 	position:absolute;
@@ -42,7 +42,7 @@ nav a{
 	width:100%;
 	height:100%;
 }
-
+/* the discover new worlds style */
 .bim>h1 {
 	text-align:center;
 	font-size:30;
@@ -52,23 +52,23 @@ nav a{
 #header {
 	margin-bottom:10px;
 }
-
+/* to add a unique box for the footer */
 #siteinfo{
 	background-color:#ca786d;
 	color:#ffffff;
 	margin:0;
 	padding:20px;
 }
-
+/* to make the email color white */
 .email {
 	color:#ffffff;
 }
-
+/* to set the logo in the right side of the page */
 #siteinfo img{
 	float:right;
 	
 }
-
+/* to use the 12 coulmns */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
