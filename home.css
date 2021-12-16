@@ -9,12 +9,12 @@
 }
 /* the introduction paragraph */
 #introduction p{
-	font-size:19;
+	font-size:19px;
 	text-align:center;
 	color:#1a406d;
 }
 .start p{
-	font-size:17;
+	font-size:17px;
 	color:#1a406d;
 	font-family:Serif;
 	padding-left:20px;
@@ -27,7 +27,7 @@
 }
 /* the point of traveling header */
 #point h3{
-	font-size:30;
+	font-size:30px;
 	text-align:left;
 	color:#5d5757;
 	border-style:outset;
@@ -36,7 +36,7 @@
 }
 /* paragraph style */
 #point p{
-	font-size:17;
+	font-size:17px;
 	color:#1a406d;
 	font-family:Serif;
 	padding-left:20px;
@@ -63,7 +63,7 @@
 }
 /* the destination header */
 .destination h3{
-	font-size:30;
+	font-size:30px;
 	text-align:left;
 	color:#5d5757;
 	border-style:outset;
