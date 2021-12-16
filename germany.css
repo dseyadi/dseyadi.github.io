@@ -1,4 +1,4 @@
-<!-- the welcome -->
+
 .germany h1{
 	font-size:30px;
 	text-align:center;
@@ -8,20 +8,20 @@
 	padding:5px;
 	padding-top:10px;
 }
-<!-- the land style -->
+
 .germany h2{
 	font-size:23px;
 	text-align:center;
 	color:#ca786d;;
 }
-<!-- the introduction paragraph -->
+
 .germany p {
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- the un header -->
+
 #un h3{
 	font-size:30px;
 	text-align:left;
@@ -31,19 +31,19 @@
 	padding:5px;
 	margin-top: 2px;
 }
-<!-- the un paragraph -->
+
 #un p{
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- to set the img in the right side of the page -->
+
 #right>img{
 	float:right;
 	margin:0.2px;
 }
-<!-- what to do header  -->
+
 #first h3{
 	font-size:30px;
 	text-align:left;
@@ -53,13 +53,13 @@
 	padding:5px;
 	margin-top: 2px;
 }
-<!-- marienplaza --> 
+
 #st dt {
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- marienplaza activety---->
+
 #st dd{
 	font-size:17px;
 	text-align:left;
@@ -67,7 +67,7 @@
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- to style the figcaption -->
+
 #two figcaption {
 	float:right;
 	color:#ca786d;
@@ -75,12 +75,12 @@
     left: 0;
     right: 0;
 }
-<!-- to set the img margin -->
+
 #two img{
 	margin:1px;
 	margin-top:2px;
 }
-<!-- to style the unordered list -->
+
 #two ul{
 	margin-left:5%;
 	margin-bottom:10px;

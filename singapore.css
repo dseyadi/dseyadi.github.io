@@ -1,4 +1,4 @@
-<!-- the singapore header -->
+
 .sin h1{
 	font-size:30px;
 	text-align:center;
@@ -8,20 +8,20 @@
 	padding:5px;
 	padding-top:10px;
 }
-<!-- the asian tiger design -->
+
 .sin h2{
 	font-size:23px;
 	text-align:center;
 	color:#ca786d;;
 }
-<!-- the introduction paragraph -->
+
 .sin p {
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- what to do header -->
+
 #todo h3{
 	font-size:30px;
 	text-align:left;
@@ -31,14 +31,14 @@
 	padding:5px;
 	margin-top: 2px;
 }
-<!-- what to do paragraph -->
+
 #todo p{
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- to set the img margin -->
+
 #singapore img{
 	margin:1px;
 	margin-top:2px;
@@ -50,7 +50,7 @@ figcaption {
     left: 0;
     right: 0;
 }
-<!-- a day in the wildlife design -->
+
 #zoo dd{
 	font-size:17px;
 	text-align:left;
@@ -58,13 +58,13 @@ figcaption {
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- a day in the wildlife term paragraph -->
+
 #zoo dt{
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- the unordered list design -->
+
 #zoo ul{
 	font-size:17px;
 	text-align:left;
@@ -72,7 +72,7 @@ figcaption {
 	color:#ca786d;
 	padding-left:35px;
 }
-<!-- the zoo paragraph -->
+
 #zoo p{
 	font-size:17px;
 	text-align:left;
@@ -83,13 +83,13 @@ figcaption {
 #zoo{
 	height:100%;
 }
-<!-- gardern by the bay term design -->
+
 #bay dt{
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- gardern by the bay paragraph -->
+
 #bay dd{
 	font-size:17px;
 	text-align:left;
@@ -100,13 +100,13 @@ figcaption {
 #bay {
 	height:100%;
 }
-<!-- universal term  -->
+
 #studios dt{
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- universal paragraph -->
+
 #studios dd{
 	font-size:17px;
 	text-align:left;

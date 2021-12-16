@@ -1,4 +1,4 @@
-<!-- egypt header -->
+
 #egy h1{
 	font-size:30px;
 	text-align:center;
@@ -8,20 +8,20 @@
 	padding:5px;
 	padding-top:10px;
 }
-<!-- um aldnia -->
+
 #egy h2{
 	font-size:23px;
 	text-align:center;
 	color:#ca786d;;
 }
-<!-- the introduction paragraph -->
+
 #egy p {
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- about sharm header -->
+
 #Sharm h3{
 	font-size:30px;
 	text-align:left;
@@ -31,14 +31,14 @@
 	padding:5px;
 	margin-top: 2px;
 }
-<!-- sharm paragraph -->
+
 #Sharm p{
 	font-size:17px;
 	text-align:left;
 	padding-left:10px;
 	color:#1a406d;
 }
-<!-- to set all img/ video with the right id to the right side of the page -->
+
 #right {
 	float:right;
 	overflow:hidden;
@@ -48,7 +48,7 @@
 	margin:1px;
 	margin-top:2px;
 }
-<!-- the resort paragraph -->
+
 #Resort p{
 	font-size:17px;
 	text-align:left;
@@ -65,7 +65,7 @@ figcaption {
     left: 0;
     right: 0;
 }
-<!-- sunrise arabia -->
+
 #sa dd{
 	font-size:17px;
 	text-align:left;
@@ -73,13 +73,13 @@ figcaption {
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- sunrise arabia header -->
+
 #sa dt{
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- sunrise arabia unordered list design -->
+
 #sa ul{
 	font-size:17px;
 	text-align:left;
@@ -87,7 +87,7 @@ figcaption {
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- royal savoy -->
+
 #rs dd{
 	font-size:17px;
 	text-align:left;
@@ -95,13 +95,13 @@ figcaption {
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- royal savoy term -->
+
 #rs dt{
 	color:#ca786d;
 	font-size:19px;
 	padding-left:25px;
 }
-<!-- what to do header -->
+
 #to h3{
 	font-size:30px;
 	text-align:left;
@@ -111,7 +111,7 @@ figcaption {
 	padding:5px;
 	margin-top: 2px;
 }
-<!-- what to do paragraph -->
+
 #to p{
 	font-size:17px;
 	text-align:left;
@@ -121,7 +121,7 @@ figcaption {
 #to {
 	padding-bottom:10px;
 }
-<!-- all definition list definition design  -->
+
 #to dd{
 	font-size:17px;
 	text-align:left;
@@ -129,7 +129,7 @@ figcaption {
 	color:#1a406d;
 	padding-left:35px;
 }
-<!-- all definition list term  -->
+
 #to dt {
 	color:#ca786d;
 	font-size:19px;
