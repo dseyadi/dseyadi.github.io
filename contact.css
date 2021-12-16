@@ -1,4 +1,4 @@
-
+<!-- how can i help style -->
 #contact h2{
 	font-size:35px;
 	text-align:center;
@@ -7,16 +7,19 @@
 	border-color:#f2f2f2;
 	padding:5px;
 }
+<!-- the introduction paragraph -->
 .start p {
 	font-size:20px;
 	text-align:center;
 	color:#1a406d;
 }
+<!-- to style all forms -->
 .form{
 	font-size:17px;
 	color:#1a406d;
 	padding-left:15%;
 }
+<!-- first/last/email input style-->
 .form input{
 	width:100%;
 	margin:20px 0;
@@ -24,6 +27,7 @@
 	border:none;
 	border-bottom:3px solid #ca786d;
 }
+<!-- the textarea design -->
 .form textarea{
 	width:100%;
 	margin:20px 0;
@@ -32,6 +36,7 @@
 	border-bottom:3px solid #ca786d;
 	color:#5d5757;
 }
+<!-- the submit design -->
 .submit input {
 	padding: 20px 32px;
 	font-size:16px;
@@ -39,8 +44,8 @@
 	border:none;
 	border-radius: 4px;
 	color:white;
-	input-align:center;
 }
+<!-- to set the submit in the center-->
 .submit {
 	text-align:center;
 }
